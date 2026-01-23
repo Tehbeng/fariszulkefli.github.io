@@ -1,7 +1,10 @@
 title: Muhammad Faris Bin Zulkefli # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+   <p align="center">
+  <a href="https://www.linkedin.com/in/fariszulkefli/">LinkedIn</a> |
+  <a href="https://github.com/Tehbeng">GitHub</a>
+  </p>
   <br><br>
   Second description 
   <br><br>
